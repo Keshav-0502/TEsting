@@ -1,6 +1,11 @@
 Initial commit starts from here right your names below:-
 
 Myself Shreeya Pathak.
+<<<<<<< HEAD
 
 Hi I am Himanshu.
 hi this is ruqayya
+=======
+HI, this is Shreeya.
+>>>>>>> Shreeya
+Hello, this is Shreeya.
